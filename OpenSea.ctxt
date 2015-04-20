@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OpenSea()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ OpenSea.\n
+comment1.params=row\ col
+comment1.target=java.lang.String\ bombingResult(int,\ int)
+numComments=2
